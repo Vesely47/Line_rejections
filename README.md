@@ -1,5 +1,9 @@
 Français 
-- Dans le cadre d'améliorer la performance de l'usine dans le secteur automobile, le but de ce projet a été identifier les procès et les composants qui génèrent le plus des rejets.
+- Fichier Rejets.xlsx est une base de données qui est rempli manuellement par un assistant qualité.
+- Fichier Rejets_ligne_pdf.py analyse le taux de rejets, les cinq pires procès et pour chaque procès les 5 pires références pour la semaine.
+
+
 
 English 
-- In the content of the automobile company in order to improve the performance of the production, the goal of this project was to identify the processes and the components that create the most of the line rejections.
+- Filze Rejets.xlsx is a database that is filled on the daily bases by the quality assistant.
+- File Rejets_line_pdf analyse the percentage of the line rejects, the 5 most critical processes and 5 most critical references for each proces on the weekly bases.
